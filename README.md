@@ -6,5 +6,5 @@ With Flexbox using CSS also created a grid of cards and aligned them, and transi
 
 Here's how the output looks like-
 
-![Output](https://github.com/mrunal0502/Spotify-clone-/blob/main/Output.PNG)
+![Output](https://github.com/mrunal0502/Spotify-clone-/blob/main/final.PNG)
 
